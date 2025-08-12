@@ -4,6 +4,11 @@ TriX Gaming DApp is a **simulated Web3 PvP betting platform** where players stak
 This project demonstrates **blockchain-inspired game logic** with wallet integration, token staking, and live updates, all running in a browser environment.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6acdaea2-0496-47da-8636-eec997dca5bc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b512f6a0-ba06-40b3-a9e8-3ad3a941bdb8" />
+
+
 
 ## 📌 Features
 
