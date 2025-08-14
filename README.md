@@ -89,5 +89,4 @@ The **random winner generation** uses JavaScript’s randomization, ensuring fai
 +---------------------+
 
 
-![Screenshot 2025-08-14 132157](https://github.com/user-attachments/assets/ff6c825f-1d56-4499-852c-c0e0fac855fb)
 
