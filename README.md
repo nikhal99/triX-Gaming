@@ -1,5 +1,9 @@
 # 🎮 TriX Gaming DApp
 
+This project is a web application for Trix Gaming.
+
+**Live Preview:** [https://trixgaming-hu15chjht-nikhal99s-projects.vercel.app/](https://trixgaming-hu15chjht-nikhal99s-projects.vercel.app/)
+
 TriX Gaming DApp is a **simulated Web3 PvP betting platform** where players stake GT tokens, join or create matches, and compete for winnings. Matches auto-complete, and winners are randomly selected by the system.  
 This project demonstrates **blockchain-inspired game logic** with wallet integration, token staking, and live updates, all running in a browser environment.
 
